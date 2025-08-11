@@ -48,3 +48,6 @@ Built with **React**, **Redux Toolkit**, and **RapidAPI's Article Extractor and 
     npm run dev
 
 4. **Screenshot**
+   <img width="1919" height="912" alt="image" src="https://github.com/user-attachments/assets/7759c3ca-3540-4afa-a6c0-0e403b31fde4" />
+   <img width="1918" height="902" alt="image" src="https://github.com/user-attachments/assets/14cd7f29-1343-4447-a151-2ffd85e2926d" />
+
